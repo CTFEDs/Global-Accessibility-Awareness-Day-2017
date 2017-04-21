@@ -3,16 +3,16 @@ layout: default
 title: Resources
 ---
 
-## Examples
+## Examples and guides
 
 * Heydon Pickering's [practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 * Font Awesome 4.6 Released: [Making accessibility more accessible](https://articles.fortawesome.com/font-awesome-4-6-released-d7213342698a#.j8om7wij4)
 * [Code Library (Beta) from Deque University](https://dequeuniversity.com/library/)
 * [Simply Accessible examples](http://examples.simplyaccessible.com/)
-
-## Checklist
-
+* [Screen readers and web browsers – what’s the best pairing for testing?](http://hollier.info/browserpairing/)
+* [Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/)
+* Shameless plug: Steve's bookmarks tagged [accessibilty](https://pinboard.in/u:maxbarners/t:accessibilty/)
 
 ### Primary
 
