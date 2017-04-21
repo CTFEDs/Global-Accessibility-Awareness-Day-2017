@@ -1,5 +1,3 @@
-# Global Accessibility Awareness Day activities
-
 See [Participate in Global Accessibility Awareness Day](http://www.globalaccessibilityawarenessday.org/participate.html) for more detail. These activities help us use the web as people with disabilities do, and see if we can help make our sites and apps better for them.
 
 **Disability** can be defined as the conflict between **ability** (the functional capability of a person) and a **barrier** (a problem created by a product). We can find these barriers and remove them, and avoid putting them there in the first place, opening up our sites and apps to more people.
