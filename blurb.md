@@ -1,30 +1,12 @@
-# Accessibility workshop
+# Global Accessibility Awareness day workshop
 
-This month at CTFEDs we're going to focus on the bottom building block of everything we do: HTML. In particular, we're going to focus on accessibility, just in time for [Global Accessibility Awareness Day](http://www.globalaccessibilityawarenessday.org/).
+It's that time of year again! This month at CTFEDs we're going to focus on accessibility and take part in [Global Accessibility Awareness Day](http://www.globalaccessibilityawarenessday.org/) (which is on Thursday, May 18 2017).
 
-## Your stuff
+New this year: we're going to get a bit more hands-on with extra practical exercises and tutorials, and start digging at our own stuff to find the bits we can make more accessible.
 
-For the first half of the workshop we're going to look at making our own stuff more accessible. We'll work through some practical examples and then apply the ideas to our own projects.
+New this year: we'll be doing the [GAAD activities](http://www.globalaccessibilityawarenessday.org/participate.html) again, but with an additional focus on [why we should care](https://ctfeds.github.io/Global-Accessibility-Awareness-Day-2017/activities/). We'll go mouseless / trackpadless, we'll bump up our font sizes, we'll check for colour contrast, and more.
 
-That means things like:
-
-* making sure all images have `alt` tags;
-* using the new stuctural HTML5 elements like `section`, `article`, `header`, `footer`, and `nav`;
-* using ARIA roles to help guide users through a page, and more.
-
-## Other people's stuff
-
-For the second half of the workshop we're going to discuss helping our friends and colleagues learn about accessibility and understand why it's important.
-
-We'll put together some ideas for what we can all do at our places of work on Global Accessibility Awareness Day, based on the [GAAD participation activities](http://www.globalaccessibilityawarenessday.org/participate.html). Things like going mouseless for an hour, enlarging our default browser font size, and checking for sufficient colour contrast. We'll also talk about how to convince people to take part in these activities!
-
-# About the (special) RSVPs
-
-There are only 20 spaces available for this workshop, so we're doing special RSVPs again.
-
-Short version: you'll need to confirm your attendance one week before the workshop.
-
-Longer version: when you RSVP here you'll be added to the Waiting List. One week before the workshop we'll contact you via meetup, asking for confirmation of your attendance. When you reply to this message, we'll update your RSVP to Yes. If you don't reply to this message, you won't be able to attend the workshop. Eep!
+Same this year: we'll be talking about a wider definition of disability (it's about much more than just about blind users with screen readers) and making a case for adopting Inclusive Design as an awesome way to build things for the web.
 
 --
 
