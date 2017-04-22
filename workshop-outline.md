@@ -24,7 +24,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 ## Equations chat (5m)
 
-* Talk through the [Equations](/Global-Accessibility-Awareness-Day-2016/print-for-wall/equations.pdf). Stand around them and audience shout outs. Justin do **Inclusive Design**, Steve do **Disability**.
+* Talk through the [Equations]({{ site.baseurl }}/print-for-wall/equations.pdf). Stand around them and audience shout outs. Justin do **Inclusive Design**, Steve do **Disability**.
 
 ## Personas Tour (10m)
 
@@ -34,7 +34,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 ## Do GAAD activities (20m)
 
-* Grab a copy of the [Global Accessibility Awareness Day activities handout](/Global-Accessibility-Awareness-Day-2016/activities.pdf).
+* Grab a copy of the [Global Accessibility Awareness Day activities handout]({{ site.baseurl }}/activities.pdf).
 * As a table, split up the activities between yourselves. Try and make sure that you cover all the activities.
 
 ## GAAD review (5m)
@@ -44,7 +44,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 ## Make a checklist (15m)
 
 * Grab two different colour pens: one for FED and one for UX.
-* Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines](/Global-Accessibility-Awareness-Day-2016/handouts/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
+* Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines]({{ site.baseurl }}/handouts/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
 
 ## Write down ideas to make them happen (10m)
 
@@ -52,7 +52,7 @@ We'll all be working on our own stuff, but this isn't a blame game. It's a "how 
 
 ## Resources Review (10m)
 
-* Justin lead discuss of resources page: [ctfeds.org/gaadr](http://ctfeds.github.io/Global-Accessibility-Awareness-Day-2016/resources/)
+* Justin lead discuss of resources page: [ctfeds.org/gaadr](http://ctfeds.github.io{{ site.baseurl }}/resources/)
 
 ## GAAD Activities at your office (20m)
 
