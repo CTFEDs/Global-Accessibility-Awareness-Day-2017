@@ -5,61 +5,58 @@ title: Workshop outline
 
 # Workshop outline
 
-We'll all be working on our own stuff, but this isn't a blame game. It's a "how can we make our stuff better for everyone?"" game. It's a love-in. :)
-
-## Warm-up questions
-
-* Who does accessibility help?
-* Who will you share the stuff from the workshop with? (tie this in to SMART goal at end)
-
 ## Opening activity (as people arrive)
 
-* Share your warm-up answers with your table.
-* Review the list of categories of **barriers to access** on the wall. Pick a tick in the column if you know someone who falls into this category.
+* Who will you share the stuff from the workshop with? (tie this in to SMART goal at end)
+* Share your answers with 3 people.
 
-## Two lightning talks and discussion (30m)
+## Equation and barriers (10m)
 
-* **Steve**. 5Ws and 1H of Accessibility. Shout outs from audience, but with one in speaker notes?
-* **Justin**. WAI-ARIA whistle-stop tour, landmarks, roles, etc. WCAG levels.
+* Talk through the **Disability** [Equation](//ctfeds.github.io{{ site.baseurl }}/print-for-wall/equations.pdf).
+* Talk through [barriers to access](//ctfeds.github.io{{ site.baseurl }}/print-for-wall/barrier-grid.pdf) on the wall. Put a ✔ on Physical, Visual, Cognitive if you know someone who falls into this category.
 
-## Equations chat (5m)
+## Personas Tour (15m)
 
-* Talk through the [Equations]({{ site.baseurl }}/print-for-wall/equations.pdf). Stand around them and audience shout outs. Justin do **Inclusive Design**, Steve do **Disability**.
-
-## Personas Tour (10m)
-
-* Use the [personas from A Web For Everyone](http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/).
 * Walk around and read the posters of personas on walls.
-* Pick a few to focus on. Take a print-out of each. We'll use them later.
+* Write down 1 thing you've learned and 1 thing you want to change about something you're working on.
+* Shout outs from the table of your notes.
 
-## Do GAAD activities (20m)
+## Do GAAD activities (55m)
 
-* Grab a copy of the [Global Accessibility Awareness Day activities handout]({{ site.baseurl }}/activities.pdf).
-* As a table, split up the activities between yourselves. Try and make sure that you cover all the activities.
+* Have a look at [Global Accessibility Awareness Day activities](//ctfeds.github.io{{ site.baseurl }}/activities/).
+* Work your way through the activities.
 
-## GAAD review (5m)
+## Review (5m)
 
-* Do a 5 minute review with your table at the end. What was the most important thing you learned?
+* Do a 5 minute review with your table.
+* What was the most important thing you learned?
 
-## Make a checklist (15m)
+## Some kind of break activity here (10m)
 
-* Grab two different colour pens: one for FED and one for UX.
-* Go through A Web For Everyone's [APPENDIX A: Accessible UX Principles and Guidelines]({{ site.baseurl }}/handouts/AWFE-AppendixA1.pdf).  Mark with a tick items that are FED and items that are UX-related.
+## Teach Access Tutorial (55m)
 
-## Write down ideas to make them happen (10m)
+* Have a look at the [Writing Code section](https://teachaccess.github.io/tutorial/#/2) of the [Teach Access Tutorial](https://teachaccess.github.io/tutorial/).
+* Work your way through the exercises.
 
-* As a table, write down some ideas for how to make these things happen. It could be a tool, a process change, a bit of code, a design pattern.
+
+## Review (5m)
+
+* Do a 5 minute review with your table.
+* What was the most important thing you learned?
+
 
 ## Resources Review (10m)
 
-* Justin lead discuss of resources page: [ctfeds.org/gaadr](http://ctfeds.github.io{{ site.baseurl }}/resources/)
+* Chat about resources page: [ctfeds.org/gaadr](//ctfeds.github.io{{ site.baseurl }}/resources/)
 
-## GAAD Activities at your office (20m)
+## Accessibility at your office (20m)
 
-* Discuss and write down ways to get others at the office to do these on WGAAD.
-  * What's the value?
-  * Who does it affect?
-* SMART goal setting. Suggest blog post, tweets, share on meetup, Slack groups. Global Accessibility **Awareness** Day!
+* Discuss and write down ways to help others at the office write more accessible code.
+  * Does it save time?
+  * Does it save money?
+  * Who are you helping?
+* Table shout outs.
+* Set a SMART goal.
 
 ## Facilitator Feedback (5m)
 
