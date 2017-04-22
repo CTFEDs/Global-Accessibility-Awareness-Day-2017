@@ -5,7 +5,7 @@ title: Resources
 
 ## Examples and guides
 
-* Heydon Pickering's [practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
+* Heydon Pickering's [practical ARIA examples](http://heydonworks.com/practical_aria_examples/) and [Inclusive Components](http://inclusive-components.club/)
 * Font Awesome 4.6 Released: [Making accessibility more accessible](https://articles.fortawesome.com/font-awesome-4-6-released-d7213342698a#.j8om7wij4)
 * [Code Library (Beta) from Deque University](https://dequeuniversity.com/library/)
 * [Simply Accessible examples](http://examples.simplyaccessible.com/)
@@ -33,20 +33,30 @@ title: Resources
 
 ## Tools
 
+### Command line
+
 * [pa11y](http://pa11y.org/)
 * [a11y](https://addyosmani.com/a11y/)
-* [tenon](https://tenon.io/)
-* [axe](http://www.deque.com/products/axe/)
 * [The A11y Machine](https://github.com/liip/TheA11yMachine)
 * [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
-* [Google Chrome Accessibility Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
+
+### Websites
+
+* Web Aim's [Web Accessibility Evaluation Tool](http://wave.webaim.org/)
+* [tenon](https://tenon.io/)
+* [Lea Verou's colour contrast ratio checker](http://leaverou.github.io/contrast-ratio/)
+* [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
+
+### Browser extensions and the like
+
+* [axe](http://www.deque.com/products/axe/)
 * [Google Chrome Accessibility Developer Tools browser extension](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [Firefox Accessibility Evaluation Toolbar](https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/) - (not working in FF46+ but fix is in the works)
 * [tota11y](http://khan.github.io/tota11y/), an accessibility visualization toolkit
-* Web Aim's [Web Accessibility Evaluation Tool](http://wave.webaim.org/)
+
+## Articles and information
+
 * Big list on [Paciello Group](https://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/)
-* [Lea Verou's colour contrast ratio checker](http://leaverou.github.io/contrast-ratio/)
-* [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
 * [Mozilla Developer Network ARIA documentation](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [HTML5 Accessibility support status](http://stevefaulkner.github.io/HTML5accessibility/)
 * [W3C ARIA 1.0 Implementation Report](https://www.w3.org/WAI/ARIA/1.0/CR/implementation-report) - useful to see how patchy support for role mapping is.
