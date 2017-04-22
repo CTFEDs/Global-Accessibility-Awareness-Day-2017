@@ -52,6 +52,4 @@ Blind people use screen readers to surf the web. Some people want to hear inform
 
 This list is heavily based on [Screen readers and web browsers – what’s the best pairing for testing?](http://hollier.info/browserpairing/).
 
-## Learn About And Use Other OS/Mobile Accessibility Features
-
-* The [Windows 7 Operating System](http://windows.microsoft.com/en-CA/windows7/products/features/accessibility) has a number of built-in accessibility features, as does the [Mac Operating System](http://www.apple.com/accessibility/macosx/vision.html). [iPhone](http://support.apple.com/kb/HT3577), [Android](http://www.google.com/accessibility/products/), and [BlackBerry](http://us.blackberry.com/support/devices/blackberry_accessibility/) devices also have accessibility features. Explore what these are and try them out on the Web. In the case of the mobile devices, try using some of your favorite apps with different accessibility features enabled.
+Try a different Operating System to your usual one. Maybe someone sitting at your table has a computer or phone that's different to yours?
