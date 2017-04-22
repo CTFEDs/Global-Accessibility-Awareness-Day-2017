@@ -10,7 +10,7 @@ This is based heavily on [Participate in Global Accessibility Awareness Day](htt
 
 People with physical disabilities use a keyboard instead of a mouse as it doesnâ€™t require precise movements.
 
-* Is there a visible focus indicator (i.e., do you know where you are) at all times as you navigate each screen using the tab and shift tab keys?
+* Is there a visible `:focus` indicator at all times as you navigate each screen using the tab and shift tab keys?
 * Are you able to interact with every element that receives focus using the keyboard alone?
 * If there is any element that provides functionality if you hover over it with your mouse, such as revealing a tooltip or a set of actions, can you display this strictly using the keyboard alone?
 
@@ -18,9 +18,9 @@ People with physical disabilities use a keyboard instead of a mouse as it doesnâ
 
 People with visual disabilities enlarge their fonts or use a zoom tool so that text is more readable.
 
-* Check that your page(s) is accessible and usable for low vision/visually impaired users.
-* Resize the text to 200 percent. Make sure there is no loss of content or functionality.
-* Have all elements resized, including all widgets?
+* Resize the text to 200 percent.
+    * Is there any loss of content or functionality?
+    * Have all elements resized, including all widgets?
 
 ## Check for Sufficient Color Contrast, and for Colour Blindness compatibility.
 
@@ -30,8 +30,7 @@ People with visual disabilities and those with colour blindness need information
 
 People with visual disabilities that use screen readers hear the page in the order of the HTML source of the page. People with cognitive disabilities need clear and consistent presentation of information.
 
-* Check your Page(s) to make sure elements will be read by screen readers in the correct order.
-* Disable the page's stylesheets and compare the order of elements before and after.
+* Disable stylesheets and compare the order of elements before and after.
 
 ## Surf The Web With A Screen Reader
 
