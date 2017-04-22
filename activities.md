@@ -33,9 +33,20 @@ People with visual disabilities that use screen readers hear the page in the ord
 
 Blind people use screen readers to surf the web. Some people want to hear information as well as read it, such as those with visual or cognitive disabilities.
 
-* There are a number of free/open source screen readers available for Windows users. One of the more popular ones is [NonVisual Desktop Access (NVDA)](http://www.nvda-project.org/). Take a bit of time beforehand to download the software and learn some of NVDA’s documented basic keystrokes.
-* Mac users, you have a built-in screen reader called [VoiceOver](http://www.apple.com/accessibility/voiceover/) on your systems. Take some time to visit the site referenced to familiarize yourself with how to turn on VoiceOver and some of the basic keystrokes.
-* Unplug your mouse, launch your screen reader, and use some of your favorite sites strictly using the keyboard alone. Why not turn off your screen and depend strictly on the information conveyed by the screen reader?
+## Popular screen reader and browser combinations
+
+1. **Windows:** [NVDA](https://www.nvaccess.org/) (free) and [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) (free)
+    -  [Keyboard Shortcuts for NVDA](http://webaim.org/resources/shortcuts/nvda) on [WebAIM](http://webaim.org/)
+- **Windows:** [JAWS](http://www.freedomscientific.com/Downloads/JAWS) (free trail) and [Microsoft Internet Explorer](https://www.microsoft.com/en-za/download/internet-explorer.aspx) (free)
+    - [Keyboard Shortcuts for JAWS](http://webaim.org/resources/shortcuts/jaws)
+- **iOS:** VoiceOver (`Settings > General > Accessibility`) and Safari
+    - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
+- **Android:** TalkBack `(Settings > Accessibility`) and Google Chrome
+    - [Get started on Android with TalkBack](https://support.google.com/accessibility/android/answer/6283677?hl=en)
+- **MacOS:** VoiceOver (`Command-F5` or `System Preferences > Accessibility`) and Safari
+    - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
+
+See [Screen readers and web browsers – what’s the best pairing for testing?](http://hollier.info/browserpairing/) for more detail.
 
 ## Learn About And Use Other OS/Mobile Accessibility Features
 
