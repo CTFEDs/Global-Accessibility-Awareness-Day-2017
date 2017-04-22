@@ -8,6 +8,8 @@ New this year: we'll be doing the [GAAD activities](http://www.globalaccessibili
 
 Same this year: we'll be talking about a wider definition of disability (it's about much more than just about blind users with screen readers) and making a case for adopting Inclusive Design as an awesome way to build things for the web.
 
+Same this year: if you have one, bring your **laptop**, **charger**, and a pair of **headphones**.
+
 --
 
 Attendees must read and follow our [Code of Conduct](http://ctfeds.org/code-of-conduct/). Thanks! :)
