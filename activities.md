@@ -39,7 +39,7 @@ Blind people use screen readers to surf the web. Some people want to hear inform
 
 ## Popular screen reader and browser combinations
 
-1. **Windows:** [NVDA](https://www.nvaccess.org/) (free) and [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) (free)
+- **Windows:** [NVDA](https://www.nvaccess.org/) (free) and [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/) (free)
     -  [Keyboard Shortcuts for NVDA](http://webaim.org/resources/shortcuts/nvda) on [WebAIM](http://webaim.org/)
 - **Windows:** [JAWS](http://www.freedomscientific.com/Downloads/JAWS) (free trail) and [Microsoft Internet Explorer](https://www.microsoft.com/en-za/download/internet-explorer.aspx) (free)
     - [Keyboard Shortcuts for JAWS](http://webaim.org/resources/shortcuts/jaws)
@@ -50,7 +50,7 @@ Blind people use screen readers to surf the web. Some people want to hear inform
 - **MacOS:** VoiceOver (`Command-F5` or `System Preferences > Accessibility`) and Safari
     - [Using VoiceOver to Evaluate Web Accessibility](http://webaim.org/articles/voiceover/)
 
-See [Screen readers and web browsers – what’s the best pairing for testing?](http://hollier.info/browserpairing/) for more detail.
+This list is heavily based on [Screen readers and web browsers – what’s the best pairing for testing?](http://hollier.info/browserpairing/).
 
 ## Learn About And Use Other OS/Mobile Accessibility Features
 
