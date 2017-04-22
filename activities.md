@@ -6,18 +6,18 @@ This is based heavily on [Participate in Global Accessibility Awareness Day](htt
 
 **Disability** can be defined as the conflict between **Ability** (the functional capability of a person) and a **Barrier** (a problem created by a product). We can find these barriers and remove them, or avoid putting them there in the first place, opening up our sites and apps to more people.
 
-## Check Order of Elements
+## Check order of elements
 
 People with visual disabilities that use screen readers hear the page in the order of the HTML source of the page. People with cognitive disabilities need clear and consistent presentation of information.
 
 * Disable stylesheets and compare the order of elements before and after.
 * Check the clarity and consistency of the content and the navigation.
 
-## Check for Sufficient Color Contrast, and for Colour Blindness compatibility
+## Check for sufficient color contrast, and for colour blindness compatibility
 
 People with visual disabilities and those with colour blindness need information that has sufficient colour contrast and information that isn’t represented only in colour.
 
-## Enlarge Your Fonts
+## Enlarge your fonts
 
 People with visual disabilities enlarge their fonts or use a zoom tool so that text is more readable.
 
@@ -25,7 +25,7 @@ People with visual disabilities enlarge their fonts or use a zoom tool so that t
     * Is there any loss of content or functionality?
     * Have all elements resized, including all widgets?
 
-## Go Mouseless / Trackpadless
+## Go mouseless / trackpadless
 
 People with physical disabilities use a keyboard instead of a mouse as it doesn’t require precise movements.
 
@@ -33,7 +33,7 @@ People with physical disabilities use a keyboard instead of a mouse as it doesn�
 * Are you able to interact with every element that receives focus using the keyboard alone?
 * If there is any element that provides functionality if you hover over it with your mouse, such as revealing a tooltip or a set of actions, can you display this strictly using the keyboard alone?
 
-## Surf The Web With A Screen Reader
+## Surf the Web with a screen reader
 
 Blind people use screen readers to surf the web. Some people want to hear information as well as read it, such as those with visual or cognitive disabilities.
 
