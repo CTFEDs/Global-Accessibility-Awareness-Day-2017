@@ -18,40 +18,44 @@ title: Workshop outline
 ## Personas Tour (15m)
 
 * Walk around and read the posters of personas on walls.
-* Write down 1 thing you've learned and 1 thing you want to change about something you're working on.
-* Shout outs from the table of your notes.
+* Write down the most interesting thing you read.
+* Table shout outs. At least one from each table.
 
-## Do GAAD activities (55m)
+## Do GAAD activities (50m)
 
-* Have a look at [Global Accessibility Awareness Day activities](//ctfeds.github.io{{ site.baseurl }}/activities/).
-* Work your way through the activities.
+* Read the (CTFEDs "fork" of the) [Global Accessibility Awareness Day activities](//ctfeds.github.io{{ site.baseurl }}/activities/).
+* Work your way through them.
 
-## Review (5m)
+## Review (10m)
 
-* Do a 5 minute review with your table.
-* What was the most important thing you learned?
+* Write down the most important thing you learned.
+* Share your answer with your table.
+* Table shout outs. At least one from each table.
 
-## Some kind of break activity here (10m)
+## Lightning Talk (10m)
 
-## Teach Access Tutorial (55m)
+* [Accessibility Overview](//ctfeds.github.io{{ site.baseurl }}/lightning-talk-accessibility-overview.pdf)
+
+## Teach Access Tutorial (50m)
 
 * Have a look at the [Writing Code section](https://teachaccess.github.io/tutorial/#/2) of the [Teach Access Tutorial](https://teachaccess.github.io/tutorial/).
 * Work your way through the exercises.
 
+## Review (10m)
 
-## Review (5m)
+* Write down which was your favourite exercise.
+* Share your answer with your table.
+* Table shout outs. At least one from each table.
 
-* Do a 5 minute review with your table.
-* What was the most important thing you learned?
+## Resources Review (5m)
 
-
-## Resources Review (10m)
-
-* Chat about resources page: [ctfeds.org/gaadr](//ctfeds.github.io{{ site.baseurl }}/resources/)
+* Chat about resources page: [ctfeds.org/gaadr2017](//ctfeds.github.io{{ site.baseurl }}/resources/)
 
 ## Accessibility at your office (20m)
 
-* Discuss and write down ways to help others at the office write more accessible code.
+* Who will you share the stuff from the workshop with?
+* Who will you help them?
+* Discuss with your table. Think about:
   * Does it save time?
   * Does it save money?
   * Who are you helping?
