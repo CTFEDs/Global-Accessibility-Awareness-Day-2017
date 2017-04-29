@@ -18,7 +18,7 @@ title: Workshop outline
 ## Personas Tour (15m)
 
 * Walk around and read the posters of personas on walls.
-* Write down the most interesting thing you read.
+* Write down the most interesting thing from the posters.
 * Table shout outs. At least one from each table.
 
 ## Do GAAD activities (50m)
@@ -54,11 +54,8 @@ title: Workshop outline
 ## Accessibility at your office (20m)
 
 * Who will you share the stuff from the workshop with?
-* Who will you help them?
-* Discuss with your table. Think about:
-  * Does it save time?
-  * Does it save money?
-  * Who are you helping?
+* How will you help them?
+* Discuss with your table. Will you save time? Save money?
 * Table shout outs.
 * Set a SMART goal.
 
