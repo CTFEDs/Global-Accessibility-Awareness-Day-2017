@@ -8,7 +8,7 @@ title: Workshop outline
 ## Opening activity (as people arrive)
 
 * Who will you share the stuff from the workshop with? (tie this in to SMART goal at end)
-* Share your answers with 3 people.
+* Share your answer with 3 people.
 
 ## Equation and barriers (10m)
 
