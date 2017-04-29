@@ -9,6 +9,7 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 
 * [Workshop Outline](workshop-outline/)
 * [Instructions](decks/instructions.pdf) (PDF)
+* [Activities](activities/)
 * [Resources](resources/) (also as [ctfeds.org/gaadr2017](http://ctfeds.org/gaadr2017))
 
 ### Personas
