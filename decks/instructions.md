@@ -1,107 +1,119 @@
-### Share your warm-up answers
+Theme: Fira, 2
 
-## Who does<br>accessibility help?
 ## Who will you share<br>the stuff from<br>the workshop with?
-
+## **Share your answer<br>with 3 people**
 
 ![](img/stickynotes.jpg)
 
 ---
 
+# Disability
+
+![](img/posters.jpg)
+
+---
+
 ## Know someone<br>with this barrier?
-# Add a tick **✔︎**
+## **Add a tick ✔︎**
 
-![](img/flipchart.jpg)
-
----
-
-# Lightning Talks
-
-![](img/justin.jpg) ![](img/steve.jpg)
-
-^ 2 x 10m
+![](img/posters.jpg)
 
 ---
 
-# Equations chat
+# Personas<br>tour
+
+![](img/posters.jpg)
+
+^ Read them!
+About 10m
+
+---
+
+## What was the most interesting thing?
+## **1. Write it on a sticky**
+## **2. Share with your table**
 
 ![](img/discussion.jpg)
 
-^ Justin and Steve talk through
-5m
+^ Solo write, then discuss with table
+Table shout outs. At least one from each table.
+About 5m + 5m
 
 ---
 
-# Personas tour
-##  Pick a few to focus on
-
-![](img/flipchart.jpg)
-
-^ Pick a few to focus on
-15m
-
----
-
-# Do GAAD activities
-## ctfeds.org/gaad-act
+## Do GAAD activities
+## **ctfeds.org/gaad-act-2017**
 
 ![](img/laptop.jpg)
 
-^ Try and cover them all
-30m
+^ First big chunk of work
+Cover them all
+About 50m
 
 ---
 
-# Most important thing?
+## What was the<br>most important<br>thing you learned?
+## **1. Write it on a sticky**
+## **2. Share with your table**
 
 ![](img/discussion.jpg)
 
-^ Review
-5m
+^ Solo write, then discuss with table
+Table shout outs. At least one from each table.
+About 5m + 5m
 
 ---
 
-# Make a checklist
-## Using Appendix A
+# Lightning<br>Talk
 
-![](img/paper-roll.jpg)
+![](img/presentation.jpg)
 
-^ A Web For Everyone
-20m
+^ About 10m
 
 ---
 
-# How To?
-## (tool, process, pattern?)
-## ctfeds.org/gaadr
+## Teach Access Tutorial
+## **teachaccess.github.io/tutorial**
 
-![](img/paper-roll.jpg)
+![](img/laptop.jpg)
 
-^ tool, process, code, pattern
-10m
+^ Second big chunk of work
+Cover as much as you can
+About 50m
 
 ---
 
-# Resources
-# Review
+## What was your<br>favourite exercise?
+## **1. Write it on a sticky**
+## **2. Share with your table**
+
+![](img/discussion.jpg)
+
+^ Solo write, then discuss with table
+Table shout outs. At least one from each table.
+About 5m + 5m
+
+---
+
+## Resources
+## **ctfeds.org/gaadr2017**
 
 ![](img/discussion.jpg)
 
 ---
 
-## GAAD At Your Office
-# SMART Goal
+## Accessibility<br>At Your Office
+## **SMART Goal**
 
 ![](img/indexcards.jpg)
 
-^ Thursday
-Value, Affect?
-blog post, tweets, share on meetup, Slack groups. Global Accessibility **Awareness** Day!
+^ Who will you share the stuff from the workshop with?
+Will you save time? Save money?
 
 ---
 
-### Facilitator Feedback
-## One Thing We Could Do Differently
+## Facilitator Feedback
+## **One thing<br>we could<br>do differently**
 
 ![](img/indexcards.jpg)
 
