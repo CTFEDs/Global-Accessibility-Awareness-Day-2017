@@ -7,6 +7,14 @@ Theme: Fira, 2
 
 ---
 
+### **Agenda**
+
+## 2 x "do stuff" blocks
+## walking and talking inbetween
+## end with a To Do
+
+---
+
 # Disability
 
 ![](img/posters.jpg)
