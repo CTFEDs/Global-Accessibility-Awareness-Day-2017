@@ -32,9 +32,15 @@ title: Workshop outline
 - Share your answer with your table.
 - Table shout outs. At least one from each table.
 
-## Lightning Talk (10m)
+## Make accessibility mainstream (10m)
 
-- [Accessibility Overview](//ctfeds.github.io{{ site.baseurl }}/lightning-talk-accessibility-overview.pdf)
+- Responsive is new mainstream
+- Why did you make that change?
+- What's stopping you from doing the same with a11y?
+
+## Break (10m)
+
+Short break.
 
 ## Teach Access Tutorial (50m)
 

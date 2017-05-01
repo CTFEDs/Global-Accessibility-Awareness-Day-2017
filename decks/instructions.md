@@ -64,11 +64,57 @@ About 5m + 5m
 
 ---
 
-# Lightning<br>Talk
+## Break! (sort of)
+## **Making accessiblity mainstream**
 
 ![](img/presentation.jpg)
 
-^ About 10m
+---
+
+## How long have you been making **responsive sites**?
+## :raised_hand:
+
+![](img/discussion.jpg)
+
+^ 0 years? 1 year? 3? 5? 10?
+Original article was May 25, 2010
+
+---
+
+## **Why** do we make responsive sites?
+## :pencil:
+
+![](img/posters.jpg)
+
+^ Why did you start?
+Why did you continue?
+
+---
+
+## How long have you been making **accessible sites**?
+## :raised_hand:
+
+![](img/discussion.jpg)
+
+^ Let's make it better! \o/
+
+---
+
+## **Why** should we make accessible sites?
+## :pencil:
+
+![](img/posters.jpg)
+
+^ Or want to make
+We'll come back to this at the end
+What's in common?
+J & S talk through results
+
+---
+
+# **Break!**
+## (for realsies)
+## (but just 10m)
 
 ---
 
@@ -109,6 +155,7 @@ About 5m + 5m
 
 ^ Who will you share the stuff from the workshop with?
 Will you save time? Save money?
+What's holding us back from doing a11y?
 
 ---
 
