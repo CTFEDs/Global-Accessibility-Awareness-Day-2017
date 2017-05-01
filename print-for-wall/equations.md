@@ -1,3 +1,5 @@
+Theme: Merriweather, 8
+
 # **Ability**
 # (functional capability)
 
@@ -18,23 +20,3 @@
 
 # **Disability**
 # (conflict between<br>Ability and Barrier)
-
----
-
-# **Design**
-
----
-
-# **+**
-
----
-
-# **Accessibility**
-
----
-
-# **=**
-
----
-
-# **Inclusive Design**
