@@ -7,24 +7,33 @@ Theme: Fira, 2
 
 ---
 
-### **Agenda**
+![](img/gaad.jpg)
 
-## 2 x "do stuff" blocks
-## walking and talking inbetween
-## end with a To Do
+^ 6th global GAAD, 2nd CTFEDs GAAD
+Take accessibility mainstream.
+Talk, think, learn about inclusion
+Intro selves!
 
 ---
 
-# Disability
+### **Agenda**
 
-![](img/posters.jpg)
+## 2 x **"do stuff"** blocks
+## **walking and talking** inbetween
+## end with a **To Do**
+
+![](img/agenda.jpg)
+
+^ learn by doing
+walk and talk: keep braing going
+To do: keep it going at work
 
 ---
 
 ## Know someone<br>with this barrier?
 ## **Add a tick ✔︎**
 
-![](img/posters.jpg)
+![](img/barrier.jpg)
 
 ---
 
@@ -38,53 +47,73 @@ About 10m
 ---
 
 ## What was the most interesting thing?
-## **1. Write it on a sticky**
-## **2. Share with your table**
+## **Write it on a sticky**
+
+![](img/stickynotes.jpg)
+
+^ Solo write
+About 5m
+
+---
+
+## What was the most interesting thing?
+## **Share with your table**
 
 ![](img/discussion.jpg)
 
-^ Solo write, then discuss with table
+^ Discuss with table
 Table shout outs. At least one from each table.
-About 5m + 5m
+About 5m
 
 ---
 
 ## Do GAAD activities
 ## **ctfeds.org/gaad-act-2017**
 
-![](img/laptop.jpg)
+![](img/activity-1.jpg)
 
 ^ First big chunk of work
 Cover them all
+What site? Yours! Ones you use.
 About 50m
+
 
 ---
 
 ## What was the<br>most important<br>thing you learned?
-## **1. Write it on a sticky**
-## **2. Share with your table**
+## **Write it on a sticky**
 
-![](img/discussion.jpg)
+![](img/stickynotes.jpg)
 
-^ Solo write, then discuss with table
-Table shout outs. At least one from each table.
-About 5m + 5m
+^ Solo write
+About 5m
 
 ---
 
-## Break! (sort of)
-## **Making accessiblity mainstream**
+## What was the<br>most important<br>thing you learned?
+## **Share with your table**
 
-![](img/presentation.jpg)
+![](img/discussion-2.jpg)
+
+^ Discuss with table
+Table shout outs. At least one from each table.
+About 5m
+
+---
+
+## Making accessiblity **mainstream**
+
+![](img/gaad-twitter.png)
 
 ---
 
 ## How long have you been making **responsive sites**?
 ## :raised_hand:
 
-![](img/discussion.jpg)
+![](img/how-long.jpg)
 
-^ 0 years? 1 year? 3? 5? 10?
+^ Hand up, keep it up
+1 year or less? 3? 5? 10?
 Original article was May 25, 2010
 
 ---
@@ -92,26 +121,17 @@ Original article was May 25, 2010
 ## **Why** do we make responsive sites?
 ## :pencil:
 
-![](img/posters.jpg)
+![](img/responsive.png)
 
 ^ Why did you start?
 Why did you continue?
 
 ---
 
-## How long have you been making **accessible sites**?
-## :raised_hand:
-
-![](img/discussion.jpg)
-
-^ Let's make it better! \o/
-
----
-
-## **Why** should we make accessible sites?
+## **Why** do we make accessible sites?
 ## :pencil:
 
-![](img/posters.jpg)
+![](img/inclusive-design.jpg)
 
 ^ Or want to make
 We'll come back to this at the end
@@ -120,16 +140,15 @@ J & S talk through results
 
 ---
 
-# **Break!**
-## (for realsies)
-## (but just 10m)
+# **Break**
+## (just 10m, please!)
 
 ---
 
 ## Teach Access Tutorial
 ## **teachaccess.github.io/tutorial**
 
-![](img/laptop.jpg)
+![](img/activity-2.jpg)
 
 ^ Second big chunk of work
 Cover as much as you can
@@ -138,25 +157,34 @@ About 50m
 ---
 
 ## What was your<br>favourite exercise?
-## **1. Write it on a sticky**
-## **2. Share with your table**
+## **Write it on a sticky**
 
-![](img/discussion.jpg)
+![](img/stickynotes.jpg)
 
-^ Solo write, then discuss with table
+^ Solo write
+About 5m
+
+---
+
+## What was your<br>favourite exercise?
+## **Share with your table**
+
+![](img/discussion-3.jpg)
+
+^ Discuss with table
 Table shout outs. At least one from each table.
-About 5m + 5m
+About 5m
 
 ---
 
 ## Resources
 ## **ctfeds.org/gaadr2017**
 
-![](img/discussion.jpg)
+![](img/ctfeds-gaadr2017.jpg)
 
 ---
 
-## Accessibility<br>At Your Office
+## Accessibility<br>In Your Work
 ## **SMART Goal**
 
 ![](img/indexcards.jpg)
