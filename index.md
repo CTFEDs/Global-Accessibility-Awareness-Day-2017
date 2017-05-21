@@ -21,3 +21,21 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 ## Poster for the walls
 
 * [Equations](print-for-wall/equations.pdf) (PDF)
+
+## Feedback
+
+- Record session if possible
+- Make slides available
+- Thank you! :)
+- Session was very informative
+- If someone attends and doesn't have a laptop how can they access the content afterwards?
+- Online documentation
+- Perhaps we can also split into small groups and share practical examples of the web accessibility issues we found on a site
+- Encourage learning from others.
+- From Justin: demo things first, then ask attendees to do it. E.g. using screen reader, using Inspect in the browser.
+- Encourage aspiring developer to join the meetup group.
+- Keep up with doing the tutorial during the meetup.
+- You guys talk about all the fancy technologies and assume other know it. Maybe make sure everyone understands.
+- Very good and informative.
+- Maybe illustrate practical usage of screen reader.
+- Have someone with a disability illustrate how they use the web.
