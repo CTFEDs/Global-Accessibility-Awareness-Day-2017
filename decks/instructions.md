@@ -156,38 +156,10 @@ About 50m
 
 ---
 
-## What was your<br>favourite exercise?
-## **Write it on a sticky**
-
-![](img/stickynotes.jpg)
-
-^ Solo write
-About 5m
-
----
-
-## What was your<br>favourite exercise?
-## **Share with your table**
-
-![](img/discussion-3.jpg)
-
-^ Discuss with table
-Table shout outs. At least one from each table.
-About 5m
-
----
-
-## Resources
-## **ctfeds.org/gaadr2017**
-
-![](img/ctfeds-gaadr2017.jpg)
-
----
-
 ## Accessibility<br>In Your Work
 ## **SMART Goal**
 
-![](img/indexcards.jpg)
+![](img/stickynotes.jpg)
 
 ^ Who will you share the stuff from the workshop with?
 Will you save time? Save money?
@@ -202,3 +174,7 @@ What's holding us back from doing a11y?
 
 ^ Anonymous is fine
 5m
+
+---
+
+# Thank you!
