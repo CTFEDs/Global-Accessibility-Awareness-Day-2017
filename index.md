@@ -22,6 +22,13 @@ All based heavily on the amazing book [A Web for Everyone](http://rosenfeldmedia
 
 * [Equations](print-for-wall/equations.pdf) (PDF)
 
+## Photos
+
+[![]({{ site.baseurl }}/photos/thumbs/workshop.jpg)]({{ site.baseurl }}/photos/workshop.jpg)
+[![]({{ site.baseurl }}/photos/thumbs/barriers.jpg)]({{ site.baseurl }}/photos/barriers.jpg)
+[![]({{ site.baseurl }}/photos/thumbs/gaad-activities.jpg)]({{ site.baseurl }}/photos/gaad-activities.jpg)
+[![]({{ site.baseurl }}/photos/thumbs/workshop-2.jpg)]({{ site.baseurl }}/photos/workshop-2.jpg)
+
 ## Feedback
 
 - Record session if possible
