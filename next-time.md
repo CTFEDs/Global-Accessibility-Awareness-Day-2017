@@ -1,4 +1,4 @@
-For the next one, thin about these things.
+For the next one, think about these things.
 
 - Add a separate slide for the equation.
 - GAAD activities: break them down. One activity at a time, one per slide.
