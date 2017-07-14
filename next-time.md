@@ -7,3 +7,4 @@ For the next one, think about these things.
 - Make sure there's a short review activity after each piece.
 - Mark jargon / tech-y language and be sure to explain each one.
 - Idea for a meetup: trip to Cape Tow Society Blind and see Adrian for Screen Reader lessons.
+- Look at https://empathyprompts.net/ for exercises.
